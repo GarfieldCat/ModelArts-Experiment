@@ -6,6 +6,7 @@ ModelArts实验。人工智能工作级开发者认证的配套上机练习。
 
 - 线性回归算法：**linear_regression**
 - 逻辑回归算法: **logistic_regression**
+- K近邻算法（简称 **KNN**） **k-nearest-neighbors**
 - 梯度下降算法：**gradient_descent**
 
 ## 操作指令
