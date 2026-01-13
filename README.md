@@ -9,6 +9,9 @@ ModelArts实验。人工智能工作级开发者认证的配套上机练习。
 - K近邻算法（简称 **KNN**）: **k-nearest-neighbors**
 - 朴素贝叶斯算法: **naive-bayes** 
 - 支持向量机（简称 **SVM**）: **support-vector-machine**
+- 迭代二叉树3（简称 **ID3**）: Iterative Dichotomiser 
+- 决策树C4.5算法: 
+- 分类回归树（简称 **CART**）: **classification_and_regression_trees**
 - 梯度下降算法：**gradient_descent**
 
 ## 操作指令
